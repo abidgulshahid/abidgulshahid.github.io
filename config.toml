@@ -15,7 +15,7 @@ license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/
 description = "Abid Gul Shahid's personal website"
 keywords = "blog,developer,personal"
 info = ["Software Engineer", "Software Enginner at Day, Hacker at Nights"]
-avatarURL = "exampleSite/static/images/avatar.jpg"
+avatarURL = "images/abid.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
