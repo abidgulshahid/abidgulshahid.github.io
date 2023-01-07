@@ -108,7 +108,7 @@ description = "Backend Engineer"
 keywords = "blog,desenvolvedor,pessoal"
 
 [[languages.pt-br.menu.main]]
-name = "Sobre"
+name = "About"
 weight = 1
 url = "about/"
 
@@ -118,12 +118,12 @@ weight = 2
 url = "posts/"
 
 [[languages.pt-br.menu.main]]
-name = "Projetos"
+name = "Projects"
 weight = 3
 url = "projects/"
 
 [[languages.pt-br.menu.main]]
-name = "Contato"
+name = "Contact me"
 weight = 5
 url = "contact/"
 [module]
