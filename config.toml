@@ -75,7 +75,7 @@ url = "https://www.linkedin.com/in/abidgulshahid/"
 
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":pakistan:"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -98,13 +98,13 @@ weight = 5
 url = "contact/"
 
 [languages.pt-br]
-languageName = ":brazil:"
-title = "João Ninguém"
+languageName = ":pakistan:"
+title = "Abid Gul Shahid"
 
 [languages.pt-br.params]
-author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
+author = "Abid Gul Shahid"
+info = "Software Engineer"
+description = "Backend Engineer"
 keywords = "blog,desenvolvedor,pessoal"
 
 [[languages.pt-br.menu.main]]
