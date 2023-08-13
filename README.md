@@ -5,4 +5,4 @@ My Portfolio
 UnderConstruction
 
 ### Link:
-http://abidgulshahid.com
+abidgulshahid.com
