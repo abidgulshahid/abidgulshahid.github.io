@@ -252,7 +252,7 @@ style = "github-dark"
 [params]
   author = "Abid Gul Shahid"
   info = "Software Engineer | Security Engineer"
-  description = "John Doe's personal website"
+  description = "Abid Gul Shahid's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "contact@abidgulshahid.com"
