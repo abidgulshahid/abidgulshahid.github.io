@@ -237,7 +237,7 @@ This is a complete configuration example with some recommended values.
 
 ```toml
 baseurl = "http://www.example.com"
-title = "johndoe"
+title = "Abid Gul Shahid"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
